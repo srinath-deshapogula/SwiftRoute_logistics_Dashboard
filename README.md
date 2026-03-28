@@ -19,8 +19,8 @@ It helps stakeholders:
 
 ## 🖼️ Dashboard Preview
 
-### 🔹 Overview Dashboard
-![Overview]()
+### 🔹 Dashboard Overview
+![Overview](https://github.com/srinath-deshapogula/SwiftRoute_logistics_Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 ### 🔹 Hubs Overview
 ![Hubs](images/hubs.png)

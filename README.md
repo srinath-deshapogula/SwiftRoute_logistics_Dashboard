@@ -23,7 +23,7 @@ It helps stakeholders:
 ![Overview](https://github.com/srinath-deshapogula/SwiftRoute_logistics_Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 ### 🔹 Hubs Overview
-![Hubs](images/hubs.png)
+![Hubs](https://github.com/srinath-deshapogula/SwiftRoute_logistics_Dashboard/blob/main/Hubs%20Overview.png.png)
 
 ### 🔹 Drivers Overview
 ![Drivers](images/drivers.png)
